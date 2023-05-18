@@ -648,7 +648,7 @@ h6:empty {
   display: inline-block;
   border: none;
   box-shadow: none;
-/*   text-decoration: underline; */
+  text-decoration: underline;
   text-underline-offset: 0.3rem;
   color: rgb(var(--color-link));
   background-color: transparent;
@@ -2753,7 +2753,7 @@ details[open] > .header__submenu {
 }
 
 details[open] > .header__menu-item {
-/*   text-decoration: underline; */
+  text-decoration: underline;
 }
 
 details[open]:hover > .header__menu-item {
@@ -2767,13 +2767,13 @@ details[open] > .header__menu-item .icon-caret {
 .header__active-menu-item {
   transition: text-decoration-thickness var(--duration-short) ease;
   color: rgb(var(--color-foreground));
-/*   text-decoration: underline;
-  text-underline-offset: 0.3rem; */
+  text-decoration: underline;
+  text-underline-offset: 0.3rem;
 }
 
 .header__menu-item:hover .header__active-menu-item {
-/*   text-decoration-thickness: 0.2rem;
-} */
+  text-decoration-thickness: 0.2rem;
+}
 
 .header__submenu {
   transition: opacity var(--duration-default) ease,
@@ -3117,13 +3117,13 @@ details-disclosure > details {
 .rte a {
   color: rgba(var(--color-link), var(--alpha-link));
   text-underline-offset: 0.3rem;
-/*   text-decoration-thickness: 0.1rem;
-  transition: text-decoration-thickness var(--duration-short) ease; */
+  text-decoration-thickness: 0.1rem;
+  transition: text-decoration-thickness var(--duration-short) ease;
 }
 
 .rte a:hover {
   color: rgb(var(--color-link));
-/*   text-decoration-thickness: 0.2rem; */
+  text-decoration-thickness: 0.2rem;
 }
 
 .rte blockquote {
