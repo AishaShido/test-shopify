@@ -63,10 +63,51 @@
         "padding_top": 56,
         "padding_bottom": 68
       }
+    },
+    "6b96555d-fa0c-4a8f-a3f5-e8321a8c7493": {
+      "type": "collection-list",
+      "blocks": {
+        "template--19125947826491__6b96555d-fa0c-4a8f-a3f5-e8321a8c7493-1684495441e02810fb-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "newest-products"
+          }
+        },
+        "template--19125947826491__6b96555d-fa0c-4a8f-a3f5-e8321a8c7493-1684495441e02810fb-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "best-selling-products"
+          }
+        },
+        "template--19125947826491__6b96555d-fa0c-4a8f-a3f5-e8321a8c7493-1684495441e02810fb-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "clothes"
+          }
+        }
+      },
+      "block_order": [
+        "template--19125947826491__6b96555d-fa0c-4a8f-a3f5-e8321a8c7493-1684495441e02810fb-0",
+        "template--19125947826491__6b96555d-fa0c-4a8f-a3f5-e8321a8c7493-1684495441e02810fb-1",
+        "template--19125947826491__6b96555d-fa0c-4a8f-a3f5-e8321a8c7493-1684495441e02810fb-2"
+      ],
+      "settings": {
+        "title": "Collections",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "background-1",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "image-with-text",
-    "featured-collection"
+    "featured-collection",
+    "6b96555d-fa0c-4a8f-a3f5-e8321a8c7493"
   ]
 }
