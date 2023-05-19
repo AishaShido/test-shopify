@@ -719,7 +719,6 @@
         {%- endcase -%}
       {%- endfor -%}
 
-                            
 
       <a href="{{ routes.cart_url }}" class="header__icon header__icon--cart link focus-inset" id="cart-icon-bubble">
         {%- liquid
@@ -746,8 +745,6 @@
 {%- if settings.cart_type == "notification" -%}
   {%- render 'cart-notification', color_scheme: section.settings.color_scheme, desktop_menu_type: section.settings.menu_type_desktop -%}
 {%- endif -%}
-
-                            
 
 {% javascript %}
   class StickyHeader extends HTMLElement {
