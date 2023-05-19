@@ -60,7 +60,7 @@
         "enable_quick_add": false,
         "columns_mobile": "2",
         "swipe_on_mobile": false,
-        "padding_top": 56,
+        "padding_top": 52,
         "padding_bottom": 68
       }
     },
@@ -170,10 +170,10 @@
       "settings": {
         "layout": "full_bleed",
         "slide_height": "medium",
-        "slider_visual": "counter",
+        "slider_visual": "dots",
         "auto_rotate": false,
         "change_slides_speed": 5,
-        "image_behavior": "none",
+        "image_behavior": "ambient",
         "show_text_below": true,
         "accessibility_info": "Slideshow about our brand"
       }
