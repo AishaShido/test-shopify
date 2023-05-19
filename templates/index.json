@@ -103,11 +103,84 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "1fe16901-0d58-49a2-be09-07fb3ef3a3f1": {
+      "type": "slideshow",
+      "blocks": {
+        "template--19125947826491__1fe16901-0d58-49a2-be09-07fb3ef3a3f1-1684495671c54ead5b-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/comfortable-living-room-cat_925x_331a79d5-2718-488b-8348-19bc1cfc1756.jpg",
+            "heading": "Living Room Theme",
+            "heading_size": "h2",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-right",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--19125947826491__1fe16901-0d58-49a2-be09-07fb3ef3a3f1-1684495671c54ead5b-1": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "f14a8ebb-d72e-4854-949b-7cde195cb71a": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--19125947826491__1fe16901-0d58-49a2-be09-07fb3ef3a3f1-1684495671c54ead5b-0",
+        "template--19125947826491__1fe16901-0d58-49a2-be09-07fb3ef3a3f1-1684495671c54ead5b-1",
+        "f14a8ebb-d72e-4854-949b-7cde195cb71a"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
     }
   },
   "order": [
     "image-with-text",
     "featured-collection",
-    "6b96555d-fa0c-4a8f-a3f5-e8321a8c7493"
+    "6b96555d-fa0c-4a8f-a3f5-e8321a8c7493",
+    "1fe16901-0d58-49a2-be09-07fb3ef3a3f1"
   ]
 }
