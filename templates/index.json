@@ -128,7 +128,8 @@
         "template--19125947826491__1fe16901-0d58-49a2-be09-07fb3ef3a3f1-1684495671c54ead5b-1": {
           "type": "slide",
           "settings": {
-            "heading": "Image slide",
+            "image": "shopify:\/\/shop_images\/flowers-in-yellow-watering-can_925x_77182424-aaa3-441d-807f-a680f9964b8e.jpg",
+            "heading": "Water Me",
             "heading_size": "h1",
             "subheading": "Tell your brand's story through images",
             "button_label": "Button label",
@@ -145,6 +146,7 @@
         "f14a8ebb-d72e-4854-949b-7cde195cb71a": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/leather-jacket-and-tea_925x_9fa038fb-7807-468b-87ea-ecc5658c359d.jpg",
             "heading": "Image slide",
             "heading_size": "h1",
             "subheading": "Tell your brand's story through images",
